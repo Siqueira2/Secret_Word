@@ -6,7 +6,7 @@ body {
     font-family: Helvetica;
     padding: 0;
     margin: 0;
-    background: linear-gradient(180deg, rgba(9,35,175,1)0%, rgba(0,0,0,1) 100%);
+    background: linear-gradient(180deg, #6593DB 0%, rgba(0,0,0,1) 100%);
     color: #fff;
 }
 
